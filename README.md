@@ -2,5 +2,5 @@
 Repository for metadata about organisation.
 
 
-## TODO
+**TODO**
 - [ ] Change Name of Organisation
